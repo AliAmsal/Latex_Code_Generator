@@ -1,0 +1,6 @@
+\documentclass{article}
+\title{hi}
+\begin{document}  
+ \maketitle  
+ \section{hello} 
+\end{document}
